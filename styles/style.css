@@ -1,0 +1,50 @@
+#header-container{
+    width: 60%;
+    margin-left: 270px;
+}
+
+#header-container h1{
+    text-align: left;
+    color:black;
+}
+
+#header-container #name-h2{
+    color: black;
+}
+
+#header-container h2{
+    font-size: 15px;
+    font-weight: 100;
+    color: gray;
+}
+
+.img-container img{
+    display: block;
+    margin: auto;
+}
+
+#first-p-container p{
+    margin-left: 270px;
+    color: gray;
+}
+
+#important-part-of-p{
+    color: black;
+}
+
+#first-p-container #subtitle-container{
+    color: black;
+}
+
+#second-p-container{
+    margin-left: 270px;
+    color: gray;
+}
+
+#important-part-of-second-p{
+    color: black;
+}
+
+#video-container{
+    margin-left: 270px;
+}

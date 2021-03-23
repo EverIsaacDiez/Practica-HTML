@@ -1,0 +1,48 @@
+#header-container{
+    width: 60%;
+    margin-left: 270px;
+}
+
+#header-container h1{
+    text-align: left;
+    color:black;
+}
+
+#header-container #name-h2{
+    color: black;
+}
+
+#header-container h2{
+    font-size: 15px;
+    font-weight: 100;
+    color: gray;
+}
+
+.img-container img{
+    display: block;
+    margin: auto;
+}
+
+#first-p-container p{
+    margin-left: 270px;
+    color: rgb(48, 44, 44);
+}
+
+#first-p-container h2{
+    margin-left: 270px;
+    color: black;
+}
+
+#second-p-container{
+    margin-left: 270px;
+    color: rgb(48, 44, 44);
+}
+
+#third-p-container{
+    margin-left: 270px;
+    color: rgb(48, 44, 44);
+}
+
+#third-p-container h2{
+    color: black;
+}
